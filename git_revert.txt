@@ -1,0 +1,17 @@
+git revert
+쉬프트 세미콜론 -명령어 -wq(저장하고 끝낸다)
+--no-edit (기본 명령어로 저장)
+
+git reset
+
+--soft, --mixed, --hard
+
+git reflog
+
+-git restore 
+
+
+
+git commit --amend //바로 직전 생성한 commit 수정하기->불필요한
+commit 덜 만들기 위해서
+
